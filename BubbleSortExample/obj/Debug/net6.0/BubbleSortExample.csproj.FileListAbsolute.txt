@@ -1,0 +1,15 @@
+E:\GitHub\BubbleSortExample\obj\Debug\net6.0\BubbleSortExample.csproj.AssemblyReference.cache
+E:\GitHub\BubbleSortExample\obj\Debug\net6.0\BubbleSortExample.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\BubbleSortExample\obj\Debug\net6.0\BubbleSortExample.AssemblyInfoInputs.cache
+E:\GitHub\BubbleSortExample\obj\Debug\net6.0\BubbleSortExample.AssemblyInfo.cs
+E:\GitHub\BubbleSortExample\obj\Debug\net6.0\BubbleSortExample.csproj.CoreCompileInputs.cache
+E:\GitHub\BubbleSortExample\bin\Debug\net6.0\BubbleSortExample.exe
+E:\GitHub\BubbleSortExample\bin\Debug\net6.0\BubbleSortExample.deps.json
+E:\GitHub\BubbleSortExample\bin\Debug\net6.0\BubbleSortExample.runtimeconfig.json
+E:\GitHub\BubbleSortExample\bin\Debug\net6.0\BubbleSortExample.dll
+E:\GitHub\BubbleSortExample\bin\Debug\net6.0\BubbleSortExample.pdb
+E:\GitHub\BubbleSortExample\obj\Debug\net6.0\BubbleSortExample.dll
+E:\GitHub\BubbleSortExample\obj\Debug\net6.0\refint\BubbleSortExample.dll
+E:\GitHub\BubbleSortExample\obj\Debug\net6.0\BubbleSortExample.pdb
+E:\GitHub\BubbleSortExample\obj\Debug\net6.0\BubbleSortExample.genruntimeconfig.cache
+E:\GitHub\BubbleSortExample\obj\Debug\net6.0\ref\BubbleSortExample.dll

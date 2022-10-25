@@ -1,0 +1,15 @@
+E:\GitHub\QuickSortExample\obj\Debug\net6.0\QuickSortExample.csproj.AssemblyReference.cache
+E:\GitHub\QuickSortExample\obj\Debug\net6.0\QuickSortExample.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\QuickSortExample\obj\Debug\net6.0\QuickSortExample.AssemblyInfoInputs.cache
+E:\GitHub\QuickSortExample\obj\Debug\net6.0\QuickSortExample.AssemblyInfo.cs
+E:\GitHub\QuickSortExample\obj\Debug\net6.0\QuickSortExample.csproj.CoreCompileInputs.cache
+E:\GitHub\QuickSortExample\bin\Debug\net6.0\QuickSortExample.exe
+E:\GitHub\QuickSortExample\bin\Debug\net6.0\QuickSortExample.deps.json
+E:\GitHub\QuickSortExample\bin\Debug\net6.0\QuickSortExample.runtimeconfig.json
+E:\GitHub\QuickSortExample\bin\Debug\net6.0\QuickSortExample.dll
+E:\GitHub\QuickSortExample\bin\Debug\net6.0\QuickSortExample.pdb
+E:\GitHub\QuickSortExample\obj\Debug\net6.0\QuickSortExample.dll
+E:\GitHub\QuickSortExample\obj\Debug\net6.0\refint\QuickSortExample.dll
+E:\GitHub\QuickSortExample\obj\Debug\net6.0\QuickSortExample.pdb
+E:\GitHub\QuickSortExample\obj\Debug\net6.0\QuickSortExample.genruntimeconfig.cache
+E:\GitHub\QuickSortExample\obj\Debug\net6.0\ref\QuickSortExample.dll

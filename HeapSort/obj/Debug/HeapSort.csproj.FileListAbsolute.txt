@@ -1,0 +1,8 @@
+E:\GitHub\HeapSort\bin\Debug\HeapSort.exe.config
+E:\GitHub\HeapSort\bin\Debug\HeapSort.exe
+E:\GitHub\HeapSort\bin\Debug\HeapSort.pdb
+E:\GitHub\HeapSort\obj\Debug\HeapSort.csproj.AssemblyReference.cache
+E:\GitHub\HeapSort\obj\Debug\HeapSort.csproj.SuggestedBindingRedirects.cache
+E:\GitHub\HeapSort\obj\Debug\HeapSort.csproj.CoreCompileInputs.cache
+E:\GitHub\HeapSort\obj\Debug\HeapSort.exe
+E:\GitHub\HeapSort\obj\Debug\HeapSort.pdb
